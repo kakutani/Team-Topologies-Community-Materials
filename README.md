@@ -36,6 +36,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 * [How to build a platform team now! the secrets to successful engineering](https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8) - Kenichi Shibata - 2018-09-18 - Scaling teams are hard. A platform team done right can help ease the hardships.
 
 * [Team Topologies for Data Engineering Teams](https://pedrogomesmota.medium.com/team-topologies-for-data-engineering-teams-a15c5eb3849c) - Pedro Gomes Mota - 2021-03-13 - Improve time to Analytics and Data Release Quality using Team Topologies for Data Engineering Teams.
+* [Team Topologiesの日本語での情報](https://scrapbox.io/iki-iki/Team_Topologiesの日本語での情報) - Shintaro Kakutani et al. - ongoing - JA - A list of online resources relating to Team Topologies in Japanese (keep updated).
 
 ## Book reviews and book summaries
 
